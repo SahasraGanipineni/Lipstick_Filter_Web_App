@@ -25,6 +25,6 @@ button{
 
 canvas{
     background-color: white;
-    border-style: double;
+    border-style: ridge;
     border-color: black;
 }
